@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aakashmehra
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning japanese
-- 💞️ Want to learn coding (java)
+- 💞️ Want to learn coding
 - 📫 Reach me on insta @http.aakash
 - LETS MAKE SOME DELICIOUS APPS! XD
 
